@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>15284819784-es15c838e3g2pakgm5clmclvgdp8on1b.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.15284819784-es15c838e3g2pakgm5clmclvgdp8on1b</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAK4w3LStm00HMNfzuXlM7S1-YVzT9Fha4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>15284819784</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.cicorivolta.CustomLogin</string>
+	<key>PROJECT_ID</key>
+	<string>app-cicorivolta</string>
+	<key>STORAGE_BUCKET</key>
+	<string>app-cicorivolta.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:15284819784:ios:8edb19a1a025201033057d</string>
+	<key>DATABASE_URL</key>
+	<string>https://app-cicorivolta.firebaseio.com</string>
+</dict>
+</plist>
